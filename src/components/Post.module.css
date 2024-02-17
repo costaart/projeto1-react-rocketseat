@@ -111,6 +111,11 @@
 
 }
 
+.commentForm button[type=submit]:disabled {
+   opacity: 0.3;
+
+}
+
 .commentList {
     margin-top: 2rem
 }
